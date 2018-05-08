@@ -223,6 +223,7 @@ LogStreaming: Display: Took  0.000s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
 <<<<<<< HEAD
+<<<<<<< HEAD
 [2018.05.08-17.21.23:751][  0]LogInit: Selected Device Profile: [Windows]
 [2018.05.08-17.21.23:751][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.05.08-17.21.23:758][  0]LogInit: Computer: DESKTOP-M6FSOT0
@@ -1690,6 +1691,8 @@ LogInit: Object subsystem initialized
 [2018.05.08-18.16.44:493][504]LogExit: Exiting.
 [2018.05.08-18.16.44:507][504]Log file closed, 05/08/18 21:16:44
 =======
+=======
+>>>>>>> d207888669125bb9782d9961f172c8362d8053b0
 [2018.05.08-18.08.52:681][  0]LogInit: Selected Device Profile: [Windows]
 [2018.05.08-18.08.52:681][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.05.08-18.08.52:728][  0]LogInit: Computer: MAX-ПК
@@ -1905,4 +1908,7 @@ LogInit: Object subsystem initialized
 [2018.05.08-18.11.15:624][309]LogFileHelpers: Saving map 'map1488' took 0.235
 [2018.05.08-18.11.20:236][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.05.08-18.11.24:117][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+<<<<<<< HEAD
+>>>>>>> d207888669125bb9782d9961f172c8362d8053b0
+=======
 >>>>>>> d207888669125bb9782d9961f172c8362d8053b0
