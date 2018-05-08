@@ -1,0 +1,692 @@
+﻿Log file open, 05/08/18 20:21:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: OneDay
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(778602351) SRandInit(778602351).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178799
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.685s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-M6FSOT0 (192.168.1.184:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/ProgramsData/Ue4/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.08-17.21.23:751][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.08-17.21.23:751][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.08-17.21.23:758][  0]LogInit: Computer: DESKTOP-M6FSOT0
+[2018.05.08-17.21.23:759][  0]LogInit: User: Fox
+[2018.05.08-17.21.23:759][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.08-17.21.23:759][  0]LogInit: High frequency timer resolution =3.020349 MHz
+[2018.05.08-17.21.23:759][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.08-17.21.23:759][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.08-17.21.23:759][  0]LogMemory: Process Physical Memory: 276.54 MB used, 276.54 MB peak
+[2018.05.08-17.21.23:759][  0]LogMemory: Process Virtual Memory: 270.14 MB used, 270.14 MB peak
+[2018.05.08-17.21.23:759][  0]LogMemory: Physical Memory: 7976.27 MB used,  8293.33 MB free, 16269.60 MB total
+[2018.05.08-17.21.23:759][  0]LogMemory: Virtual Memory: 688.32 MB used,  8293.33 MB free, 134217728.00 MB total
+[2018.05.08-17.21.23:781][  0]LogInit: Using OS detected language (ru-RU).
+[2018.05.08-17.21.23:781][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.05.08-17.21.23:784][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.05.08-17.21.24:287][  0]LogStreaming: Display: Took  0.506s to EndInitTextLocalization.
+[2018.05.08-17.21.24:288][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.08-17.21.24:323][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.08-17.21.24:324][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.08-17.21.24:514][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.08-17.21.24:562][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2018.05.08-17.21.24:562][  0]LogD3D11RHI:       2007/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.08-17.21.24:569][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.05.08-17.21.24:569][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.05.08-17.21.24:571][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.08-17.21.24:571][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.08-17.21.24:571][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.08-17.21.24:580][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.08-17.21.24:580][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.08-17.21.24:580][  0]LogWindows: EnumDisplayDevices:
+[2018.05.08-17.21.24:580][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2018.05.08-17.21.24:580][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.05.08-17.21.24:580][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.05.08-17.21.24:580][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.05.08-17.21.24:580][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.05.08-17.21.24:581][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.05.08-17.21.24:581][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.05.08-17.21.24:581][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.08-17.21.24:581][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2018.05.08-17.21.24:581][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.08-17.21.24:581][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.08-17.21.24:581][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2018.05.08-17.21.24:608][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.08-17.21.24:608][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.08-17.21.24:608][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.08-17.21.24:631][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.08-17.21.24:680][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Projects/Git/0neDay/OneDay/Intermediate/Shaders/WorkingDirectory/5084/).
+[2018.05.08-17.21.24:681][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fox/AppData/Local/Temp/UnrealShaderWorkingDir/32EC54DE42CD9008BCC93EAB55AF50E7/'.
+[2018.05.08-17.21.24:946][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.08-17.21.24:960][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.08-17.21.24:975][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.08-17.21.24:989][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.08-17.21.25:003][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.08-17.21.25:017][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.08-17.21.25:031][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.08-17.21.25:045][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.08-17.21.25:052][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.08-17.21.25:065][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.08-17.21.25:079][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.08-17.21.25:091][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.08-17.21.25:104][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.08-17.21.25:117][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.08-17.21.25:130][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.08-17.21.25:158][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.08-17.21.25:158][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.08-17.21.25:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.08-17.21.25:174][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.08-17.21.25:211][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.08-17.21.25:224][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.08-17.21.25:238][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.08-17.21.25:252][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.08-17.21.25:266][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.08-17.21.25:281][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.08-17.21.25:281][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.08-17.21.25:365][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.08-17.21.25:365][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.08-17.21.25:365][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.08-17.21.26:276][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.08-17.21.26:369][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Fox/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.08-17.21.26:369][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fox/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.08-17.21.26:369][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projects/Git/0neDay/OneDay/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.08-17.21.26:369][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.08-17.21.26:369][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projects/Git/0neDay/OneDay/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.08-17.21.26:369][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.08-17.21.26:389][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.08-17.21.26:401][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fox/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.08-17.21.26:401][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.08-17.21.26:401][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.08-17.21.26:415][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.08-17.21.26:416][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.08-17.21.26:416][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.08-17.21.26:416][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.08-17.21.26:552][  0]LogAssetRegistry: FAssetRegistry took 0.0333 seconds to start up
+[2018.05.08-17.21.26:937][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.08-17.21.27:105][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.08-17.21.27:108][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.08-17.21.27:108][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.08-17.21.27:108][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.08-17.21.27:108][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.08-17.21.27:108][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.08-17.21.27:136][  0]LogNetVersion: OneDay , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2631859788)
+[2018.05.08-17.21.27:583][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.025641 seconds
+[2018.05.08-17.21.27:590][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.08-17.21.27:590][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.08-17.21.27:590][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.08-17.21.29:301][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.08-17.21.29:335][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.08-17.21.29:626][  0]SourceControl: Source control is disabled
+[2018.05.08-17.21.29:626][  0]SourceControl: Source control is disabled
+[2018.05.08-17.21.29:639][  0]SourceControl: Source control is disabled
+[2018.05.08-17.21.29:652][  0]SourceControl: Source control is disabled
+[2018.05.08-17.21.30:056][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.08-17.21.30:194][  0]LogOcInput: OculusInput pre-init called
+[2018.05.08-17.21.30:304][  0]LogEngine: Initializing Engine...
+[2018.05.08-17.21.30:305][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.08-17.21.30:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.08-17.21.30:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.08-17.21.30:577][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.08-17.21.30:602][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.08-17.21.30:620][  0]LogInit: FAudioDevice initialized.
+[2018.05.08-17.21.30:711][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/Fox/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.08-17.21.30:724][  0]LogInit: Texture streaming: Enabled
+[2018.05.08-17.21.30:737][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.08-17.21.30:750][  0]LogInit: Transaction tracking system initialized
+[2018.05.08-17.21.30:768][  0]BlueprintLog: New page: Editor Load
+[2018.05.08-17.21.30:879][  0]LocalizationService: Localization service is disabled
+[2018.05.08-17.21.30:991][  0]LogConsoleResponse: Display: 
+[2018.05.08-17.21.31:164][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.08-17.21.31:164][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.08-17.21.31:164][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.08-17.21.31:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.08-17.21.31:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.08-17.21.31:475][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Git/0neDay/OneDay/Content/' took 0.01s
+[2018.05.08-17.21.31:475][  0]SourceControl: Source control is disabled
+[2018.05.08-17.21.31:476][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/ProgramsData/Ue4/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.05.08-17.21.31:480][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.05.08-17.21.31:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.05.08-17.21.31:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.05.08-17.21.31:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.05.08-17.21.31:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.05.08-17.21.31:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.05.08-17.21.31:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.05.08-17.21.31:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.05.08-17.21.31:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.05.08-17.21.31:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.05.08-17.21.31:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.05.08-17.21.31:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.05.08-17.21.31:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.05.08-17.21.31:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.05.08-17.21.31:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.05.08-17.21.31:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.05.08-17.21.31:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.05.08-17.21.31:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.05.08-17.21.31:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Fire01.uasset"
+[2018.05.08-17.21.31:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.05.08-17.21.31:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.05.08-17.21.31:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.05.08-17.21.31:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Light01.uasset"
+[2018.05.08-17.21.31:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.05.08-17.21.31:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Light02.uasset"
+[2018.05.08-17.21.31:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.05.08-17.21.31:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.05.08-17.21.31:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.05.08-17.21.31:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.05.08-17.21.31:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.05.08-17.21.31:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.05.08-17.21.31:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.05.08-17.21.31:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.05.08-17.21.31:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.05.08-17.21.31:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Steam01.uasset"
+[2018.05.08-17.21.31:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.05.08-17.21.31:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.05.08-17.21.31:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.05.08-17.21.31:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.05.08-17.21.31:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.05.08-17.21.31:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.05.08-17.21.31:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.05.08-17.21.31:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.05.08-17.21.31:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.05.08-17.21.31:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.05.08-17.21.31:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.05.08-17.21.31:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.05.08-17.21.31:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.05.08-17.21.31:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.05.08-17.21.31:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.05.08-17.21.31:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.05.08-17.21.31:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.05.08-17.21.31:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.05.08-17.21.31:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.05.08-17.21.31:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.05.08-17.21.31:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.05.08-17.21.31:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.05.08-17.21.31:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Maps/StarterMap.umap"
+[2018.05.08-17.21.31:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.05.08-17.21.31:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.05.08-17.21.31:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.05.08-17.21.31:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.05.08-17.21.31:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.05.08-17.21.31:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.05.08-17.21.31:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.05.08-17.21.31:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.05.08-17.21.31:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.05.08-17.21.31:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.05.08-17.21.31:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.05.08-17.21.31:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.05.08-17.21.31:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.05.08-17.21.31:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.05.08-17.21.31:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.05.08-17.21.31:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.05.08-17.21.31:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.05.08-17.21.31:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.05.08-17.21.31:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.05.08-17.21.31:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.05.08-17.21.31:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.05.08-17.21.31:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.05.08-17.21.31:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.05.08-17.21.31:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.05.08-17.21.31:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.05.08-17.21.31:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.05.08-17.21.31:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.05.08-17.21.31:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.05.08-17.21.31:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.05.08-17.21.31:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.05.08-17.21.31:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.05.08-17.21.31:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.05.08-17.21.31:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.05.08-17.21.31:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.05.08-17.21.31:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.05.08-17.21.31:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.05.08-17.21.31:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.05.08-17.21.31:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.05.08-17.21.31:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.05.08-17.21.31:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.05.08-17.21.31:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.05.08-17.21.31:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.05.08-17.21.31:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.05.08-17.21.31:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.05.08-17.21.31:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.05.08-17.21.31:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.05.08-17.21.31:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.05.08-17.21.31:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.05.08-17.21.31:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.05.08-17.21.31:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.05.08-17.21.31:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.05.08-17.21.31:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.05.08-17.21.31:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.05.08-17.21.31:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.05.08-17.21.31:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.05.08-17.21.31:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.05.08-17.21.31:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.05.08-17.21.31:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.05.08-17.21.31:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.05.08-17.21.31:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.05.08-17.21.31:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.05.08-17.21.31:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.05.08-17.21.31:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.05.08-17.21.31:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.05.08-17.21.31:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.05.08-17.21.31:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_Door.uasset"
+[2018.05.08-17.21.31:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.05.08-17.21.31:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.05.08-17.21.31:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.05.08-17.21.31:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.05.08-17.21.31:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.05.08-17.21.31:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.05.08-17.21.31:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.05.08-17.21.31:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.05.08-17.21.31:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.05.08-17.21.31:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.05.08-17.21.31:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.05.08-17.21.31:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.05.08-17.21.31:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.05.08-17.21.31:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.05.08-17.21.31:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.05.08-17.21.31:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.05.08-17.21.31:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.05.08-17.21.31:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.05.08-17.21.31:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.05.08-17.21.31:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.05.08-17.21.31:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.05.08-17.21.31:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.05.08-17.21.31:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.05.08-17.21.31:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.05.08-17.21.31:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.05.08-17.21.31:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.05.08-17.21.31:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.05.08-17.21.31:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.05.08-17.21.31:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.05.08-17.21.31:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.05.08-17.21.31:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.05.08-17.21.31:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.05.08-17.21.31:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.05.08-17.21.31:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.05.08-17.21.31:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.05.08-17.21.31:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.05.08-17.21.31:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.05.08-17.21.31:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.05.08-17.21.31:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.05.08-17.21.31:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.05.08-17.21.31:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.05.08-17.21.31:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.05.08-17.21.31:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.05.08-17.21.31:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.05.08-17.21.31:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.05.08-17.21.31:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.05.08-17.21.31:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.05.08-17.21.31:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.05.08-17.21.31:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.05.08-17.21.31:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.05.08-17.21.31:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.05.08-17.21.31:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.05.08-17.21.31:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.05.08-17.21.31:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.05.08-17.21.31:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.05.08-17.21.31:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.05.08-17.21.31:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.05.08-17.21.31:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.05.08-17.21.31:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.05.08-17.21.31:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.05.08-17.21.31:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.05.08-17.21.31:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.05.08-17.21.31:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.05.08-17.21.31:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.05.08-17.21.31:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.05.08-17.21.31:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.05.08-17.21.31:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.05.08-17.21.32:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.05.08-17.21.32:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.05.08-17.21.32:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.05.08-17.21.32:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.05.08-17.21.32:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.05.08-17.21.32:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.05.08-17.21.32:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.05.08-17.21.32:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.05.08-17.21.32:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.05.08-17.21.32:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.05.08-17.21.32:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.05.08-17.21.32:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.05.08-17.21.32:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.05.08-17.21.32:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.05.08-17.21.32:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.05.08-17.21.32:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.05.08-17.21.32:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.05.08-17.21.32:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.05.08-17.21.32:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.05.08-17.21.32:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.05.08-17.21.32:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.05.08-17.21.32:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.05.08-17.21.32:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.05.08-17.21.32:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.05.08-17.21.32:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.05.08-17.21.32:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.05.08-17.21.32:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.05.08-17.21.32:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.05.08-17.21.32:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.05.08-17.21.32:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.05.08-17.21.32:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.05.08-17.21.32:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.05.08-17.21.32:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.05.08-17.21.32:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.05.08-17.21.32:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.05.08-17.21.32:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.05.08-17.21.32:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.05.08-17.21.32:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.05.08-17.21.32:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.05.08-17.21.32:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.05.08-17.21.32:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.05.08-17.21.32:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.05.08-17.21.32:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.05.08-17.21.32:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.05.08-17.21.32:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.05.08-17.21.32:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.05.08-17.21.32:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.05.08-17.21.32:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.05.08-17.21.32:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.05.08-17.21.32:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.05.08-17.21.32:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.05.08-17.21.32:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.05.08-17.21.32:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.05.08-17.21.32:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.05.08-17.21.32:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.05.08-17.21.32:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.05.08-17.21.32:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.05.08-17.21.32:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.05.08-17.21.32:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.05.08-17.21.32:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.05.08-17.21.32:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.05.08-17.21.32:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.05.08-17.21.32:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.05.08-17.21.32:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.05.08-17.21.32:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.05.08-17.21.32:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.05.08-17.21.32:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.05.08-17.21.32:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.05.08-17.21.32:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.05.08-17.21.32:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.05.08-17.21.32:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.05.08-17.21.32:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.05.08-17.21.32:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.05.08-17.21.32:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.05.08-17.21.32:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.05.08-17.21.32:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.05.08-17.21.32:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.05.08-17.21.32:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.05.08-17.21.32:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.05.08-17.21.32:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.05.08-17.21.32:503][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.05.08-17.21.32:610][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.05.08-17.21.32:624][  0]LogSavePackage: Save=11.86ms
+[2018.05.08-17.21.32:624][  0]LogSavePackage: Moving '../../../../../../Projects/Git/0neDay/OneDay/Saved/Floor_400x40095DA9E0E4A256D0BD9EBB9987D587AF7.tmp' to '../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.05.08-17.21.32:625][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Git/0neDay/OneDay/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.05.08-17.21.32:625][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.05.08-17.21.32:626][  0]Cmd: MAP LOAD FILE="../../../../../../Projects/Git/0neDay/OneDay/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.08-17.21.32:626][  0]LightingResults: New page: Lighting Build
+[2018.05.08-17.21.32:629][  0]MapCheck: New page: Map Check
+[2018.05.08-17.21.32:629][  0]LightingResults: New page: Lighting Build
+[2018.05.08-17.21.32:697][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001877d0c4400, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.08-17.21.32:711][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001877d0c4400, Size=64
+[2018.05.08-17.21.32:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001877d0c4080, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.08-17.21.32:722][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001877c643740, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.08-17.21.32:769][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001877bf82400, Size=984, Default__TopDownCharacter_C Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.05.08-17.21.32:784][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001877bf82400, Size=984
+[2018.05.08-17.21.32:784][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001877bf82400, Size=984, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_4:ExecuteUbergraph_TopDownCharacter
+[2018.05.08-17.21.32:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001877bf83000, Size=992, Default__TopDownCharacter_C Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.05.08-17.21.32:885][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001877d1b2600, Size=512, Default__TopDownController_C Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
+[2018.05.08-17.21.32:897][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001877d1b2600, Size=512
+[2018.05.08-17.21.32:897][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001877d1b2600, Size=512, Default__TopDownController_C Function /Engine/Transient.REINST_TopDownController_C_8:ExecuteUbergraph_TopDownController
+[2018.05.08-17.21.32:908][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001877d1b3400, Size=504, Default__TopDownController_C Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
+[2018.05.08-17.21.32:999][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [13.164042ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.08-17.21.33:170][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.08-17.21.33:183][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.08-17.21.33:199][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001877d0c4080, Size=64
+[2018.05.08-17.21.33:199][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001877bf82400, Size=984
+[2018.05.08-17.21.33:200][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001877d1b2600, Size=512
+[2018.05.08-17.21.33:201][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.08-17.21.33:243][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42,137ms to complete.
+[2018.05.08-17.21.33:244][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.617
+[2018.05.08-17.21.33:320][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.08-17.21.33:321][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.08-17.21.33:403][  0]LogCollectionManager: Loaded 0 collections in 0.000998 seconds
+[2018.05.08-17.21.33:445][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Git/0neDay/OneDay/Saved/Collections/' took 0.01s
+[2018.05.08-17.21.33:445][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Git/0neDay/OneDay/Content/Developers/Fox/Collections/' took 0.01s
+[2018.05.08-17.21.33:445][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Git/0neDay/OneDay/Content/Collections/' took 0.01s
+[2018.05.08-17.21.33:445][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.08-17.21.33:456][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2452 classes and 558 folders.
+[2018.05.08-17.21.33:465][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.08-17.21.33:506][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.08-17.21.33:511][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.08-17.21.33:607][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.08-17.21.33:609][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.08-17.21.33:616][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.08-17.21.33:665][  0]LogRenderer: Reallocating scene render targets to support 1584x648 Format 10 NumSamples 1 (Frame:1).
+[2018.05.08-17.21.33:716][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.08-17.21.33:836][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.08-17.21.33:836][  0]LogLoad: (Engine Initialization) Total time: 11.74 seconds
+[2018.05.08-17.21.33:836][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.08-17.21.35:047][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.08-17.21.35:440][  2]LogAssetRegistry: Asset discovery search completed in 8.9145 seconds
+[2018.05.08-17.21.35:442][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.08-17.21.35:442][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2018.05.08-17.22.28:773][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.08-17.22.32:068][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.08-17.22.36:847][976]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.08-17.22.37:170][976]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.05.08-17.22.37:528][976]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187662cc600, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.08-17.22.37:529][976]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187662cc5f8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.08-17.22.38:100][976]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.08-17.22.39:274][ 37]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
